@@ -1,6 +1,6 @@
 # Data analysis and visualisation with ggplot2
 
-## By [Irina Chelysheva]([https://github.com/Chelysheva](https://www.brookes.ac.uk/profiles/staff/irina-chelysheva)
+## By [Irina Chelysheva](https://www.brookes.ac.uk/profiles/staff/irina-chelysheva)
 
  
 * 5th November @ 14:00
